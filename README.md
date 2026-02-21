@@ -55,9 +55,7 @@ Weather-App/
 
 User enters a city name.
 
-JavaScript fetches weather data from:
 
-https://api.openweathermap.org/data/2.5/weather
 
 The app updates:
 
